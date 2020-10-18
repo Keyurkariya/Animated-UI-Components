@@ -1,7 +1,8 @@
 # Animated UI Components [ Ready to Use ]
 Animate your components using CSS, Svelte and simple HTML
 
-- [ ] Animated Login Form using Svelte
+- [x] Animated Login Form using Svelte
+
 - [ ] Animated Navbar
 
 
@@ -15,3 +16,6 @@ Animate your components using CSS, Svelte and simple HTML
 
 - Add comments in the code, and have meaningful commit messages.
 
+## Demos
+# 1. Animated Login Form
+![](login-animation-form-sveltejs/screenshots/demo.gif)
