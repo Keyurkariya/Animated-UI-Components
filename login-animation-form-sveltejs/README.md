@@ -28,3 +28,7 @@ npm run build
 ```
 
 You can run the newly built app with `npm run start`.
+
+## Demo
+
+![](screenshots/demo.gif)
